@@ -1,0 +1,21 @@
+{
+  "name": "devops-pineline",
+  "version": "1.0.0",
+  "description": "Testing the CI pineline",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanaP96/devops-pineline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanaP96/devops-pineline/issues"
+  },
+  "homepage": "https://github.com/hanaP96/devops-pineline#readme"
+}
